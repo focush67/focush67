@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full stack developer. My primary stack is React, NextJS, TypeScript and MongoDB.
+I am a full stack developer. My primary stack is React, NextJS, TypeScript and MongoDB. I am currently exploring Golang and Rust to dive deeper into backends, and HTMX for the frontend.
 
 
 ## 🌐 Socials:
